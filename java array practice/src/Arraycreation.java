@@ -4,7 +4,7 @@ public class Arraycreation {
     public int i;
 
     public static void main(String[] args) {
-        int[] arr = new int[5];
+        int arr[] = new int[5];
         Scanner input = new Scanner(System.in);
         System.out.println("enter the elements of the array : ");
         for (int i = 0; i < arr.length; i++) {
