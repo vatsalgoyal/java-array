@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/array as object/array as object.iml" filepath="$PROJECT_DIR$/array as object/array as object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jagged arrays/jagged arrays.iml" filepath="$PROJECT_DIR$/jagged arrays/jagged arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/java array practice.iml" filepath="$PROJECT_DIR$/java array practice.iml" />
     </modules>
   </component>
