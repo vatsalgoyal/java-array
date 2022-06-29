@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/2d array/2d array.iml" filepath="$PROJECT_DIR$/2d array/2d array.iml" />
       <module fileurl="file://$PROJECT_DIR$/array as object/array as object.iml" filepath="$PROJECT_DIR$/array as object/array as object.iml" />
       <module fileurl="file://$PROJECT_DIR$/jagged arrays/jagged arrays.iml" filepath="$PROJECT_DIR$/jagged arrays/jagged arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/java array practice.iml" filepath="$PROJECT_DIR$/java array practice.iml" />
