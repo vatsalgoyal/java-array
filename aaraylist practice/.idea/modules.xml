@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aaraylist practice.iml" filepath="$PROJECT_DIR$/aaraylist practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hashmap/hashmap.iml" filepath="$PROJECT_DIR$/hashmap/hashmap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java practice/java practice.iml" filepath="$PROJECT_DIR$/java practice/java practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/linkedlist/linkedlist.iml" filepath="$PROJECT_DIR$/linkedlist/linkedlist.iml" />
     </modules>
   </component>
